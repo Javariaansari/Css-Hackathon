@@ -1,0 +1,56 @@
+body{
+    background-image: url(./images/image\ 33.png);
+}
+
+
+#logo{
+    display: inline;
+
+}
+ /* ul li{
+    display: inline;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+position: relative;
+bottom: 25px;
+left: 800px;
+margin: 30px;
+
+} */
+.button{
+    border-radius: 20px;
+    border-color: white;
+    position: relative;
+    left: 800px;
+    bottom: 25px;
+
+}
+#logo{
+    margin: 20px 20px 0 20px;
+}
+.img2{
+    margin: 200px 100px 50px 400px;
+
+}
+.div2{
+    color: white;
+   
+}
+.para1{
+    margin: 0 0 0 500px;
+}
+.para2{
+    margin: 0 0 0 510px;
+}
+.para3{
+    margin: 0 0 20px 650px;
+}
+.get_started{
+    margin: 0 0 0 640px;
+    font-size: 20px;
+    padding: 10px 30px 10px 30px ;
+    border-radius: 50px;
+}
+
+
